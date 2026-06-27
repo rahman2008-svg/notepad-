@@ -1,0 +1,6 @@
+{
+  "name": "NotePad+",
+  "description": "An offline, feature-rich Google Keep clone featuring checklists, pinned notes, color coding, smart notifications, and alarms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
